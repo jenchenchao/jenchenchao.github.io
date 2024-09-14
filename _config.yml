@@ -23,7 +23,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jen-Chen Chao"
-  bio              : "PhD Student in Sociology at Harvard University"
+  bio: |
+  [PhD Student in Sociology](https://sociology.fas.harvard.edu/people/jen-chen-chao)
+  Harvard University
   location         : "Cambridge, MA"
   employer         : 
   uri              : # URL
@@ -42,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "jenchenchao"
+  github           : #"jenchenchao"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
