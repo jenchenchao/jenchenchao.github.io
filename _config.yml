@@ -21,7 +21,7 @@ repository               : "jenchenchao/jenchenchao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "jc_bio.JPEG"
   name             : "Jen-Chen Chao"
   bio              : "PhD Student in Sociology at Harvard University"
   location         : "Cambridge, MA"
