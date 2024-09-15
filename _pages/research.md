@@ -22,7 +22,7 @@ redirect_from:
 <div align="left"><h2>Working Papers</h2></div>
 <ol>
   <li>
-    <strong>Jen-Chen Chao</strong>, Ang Yu, and Felix Elwert. 
+    <b>Jen-Chen Chao</b>, Ang Yu, and Felix Elwert. 
     &quot;How do Secondary Schools Contribute to Socioeconomic Achievement Gaps? Evidence from Taiwan.&quot;
     <i><a href="#" onclick="toggle_visibility('handbook');">[Abstract]</a></i>
     <br><br>
