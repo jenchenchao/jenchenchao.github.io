@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Jen-Chen Chao"
   bio: |
-  <a href="https://sociology.fas.harvard.edu/people/jen-chen-chao">PhD Student in Sociology</a>
-  Harvard University
+    <a href="https://sociology.fas.harvard.edu/people/jen-chen-chao">PhD Student in Sociology</a><br>
+    Harvard University
   location         : "Cambridge, MA"
   employer         : 
   uri              : # URL
