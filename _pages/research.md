@@ -53,9 +53,11 @@ redirect_from:
   <li>&quot;Educational Attainment, Family Structure, and Income Inequality among American Families with
 Children, 1995 to 2023&quot; with Xiang Zhou.</li>
   <br>
-  <li>&quot;Causal Effects of Parental Leave Policies on Women's Employment.&quot; In preparation.</li>
+  <li>&quot;Is Citizenship Always a Privilege? Examining the Moderating Role of Immigration Integration Policies on Health Disparities.&quot; with Terrence Chen, Li Hsu, and Ka U Karl Ng.</li>
   <br>
-  <li>&quot;Is Citizenship Always a Privilege? Examining the Moderating Role of Immigration Integration Policies on Health Disparities.&quot; with Terrence Chen, Li Hsu, and I-Lun Shih.</li>
+  <li>&quot;Causal Effects of Parental Leave Policies on Women's Employment.&quot;</li>
+  <br>
+  <li>&quot;Sexuality and Punishment.&quot; with Sebastian Spitz. 
 </ol>
 
 
