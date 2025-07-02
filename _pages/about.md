@@ -11,5 +11,5 @@ Hi! I am a PhD student in the Department of Sociology at Harvard University and 
 
 You can find my CV [here](https://jenchenchao.github.io/files/cv_jchao_2025july.pdf).
 
-I will be presenting at [RC28](https://rc28.soc.ucla.edu/) in LA and [ASA](https://www.asanet.org/2025-annual-meeting/) in Chicago. Would love to meet and chat!
+In August, I will be presenting at [RC28](https://rc28.soc.ucla.edu/) in LA and [ASA](https://www.asanet.org/2025-annual-meeting/) in Chicago. Would love to meet and chat!
 
