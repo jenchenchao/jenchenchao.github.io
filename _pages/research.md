@@ -43,7 +43,7 @@ redirect_from:
   <br>
   <li>
   Christina Ciocca Eller, Ohjae Gowen,  <b>Jen-Chen Chao</b>, and Natasha Quadlin.
-    &quot;The Economic Returns to &ldquo;Some&rdquo; College: Heterogeneous Higher Education Pathways and Inequality in Early Careers.&quot;
+    &quot;The Economic Returns to 'Some' College: Heterogeneous Higher Education Pathways and Inequality in Early Careers.&quot;
 </li>
 </ol>
 <br>
