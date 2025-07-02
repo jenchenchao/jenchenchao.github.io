@@ -57,7 +57,7 @@ Children, 1995 to 2023&quot; with Xiang Zhou.</li>
   <br>
   <li>&quot;Causal Effects of Parental Leave Policies on Women's Employment.&quot;</li>
   <br>
-  <li>&quot;Sexuality and Punishment.&quot; with Sebastian Spitz. 
+  <li>&quot;Sexuality and Punishment.&quot; with Sebastian Spitz.</li> 
 </ol>
 
 
