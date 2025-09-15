@@ -33,7 +33,7 @@ redirect_from:
   <br>
   <li>
   <b>Jen-Chen Chao</b>. 
-    &quot;Persistent Segregation in College Majors, Rising Earning Inequality, and the Stalled Convergence of the Gender Wage Gap in the United States, 2003&ndash;2023&quot;
+    &quot;Persistent Segregation in College Majors, Rising Between-major Earning Inequality, and the Stalled Convergence of the Gender Wage Gap in the United States, 2003&ndash;2023&quot;
     <i><a href="#" onclick="toggle_visibility('abstract2', event);">[Abstract]</a></i>
     <br><br>
     <div id="abstract2" style="display:none; margin-left: 20px;">
