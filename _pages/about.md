@@ -9,7 +9,7 @@ redirect_from:
 
 ## Jen-Chen Chao 趙振辰
 
-Hi! I am a PhD student in the Department of Sociology at Harvard University and a Doctoral Trainee at the Harvard Center for Population and Development Studies. I primarily use large-scale data and quantitative methods to study economic inequalities, with a focus on the roles of education, the labor market, and demographic changes. I also have a keen interest in understanding how social policies can mitigate inequalities. 
+Hi! I am a PhD student in the Department of Sociology at Harvard University and a Doctoral Trainee at the Harvard Center for Population and Development Studies. I primarily use large-scale data and quantitative methods to study economic inequality, with a focus on the roles of education, the labor market, and demographic changes. I also have a keen interest in understanding how social policies can mitigate inequality. 
 
 In my current project, I examine how the strength of school-to-work linkages — the degree to which a field of study channels graduates into a particular set of occupations — shapes the equalizing power of a college degree. In other work, I investigate how changes in the distribution of college majors and their wage returns have shaped the gender wage gap among college-educated workers in the United States. With collaborators, I study the economic returns to "some college," the mechanisms by which high schools contribute to achievement gaps, and the joint effects of educational attainment and family structure on trends in income inequality.
 
