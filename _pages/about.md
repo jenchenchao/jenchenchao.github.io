@@ -15,7 +15,7 @@ In my current project, I am studying how changes in the distributions and wage r
 
 I began my academic journey at [Yale Kindergarten](https://maps.app.goo.gl/ndXJ5SJYYpFqjVG5A) in Tainan, Taiwan (not New Haven), and later earned both my B.A. and M.A. degrees in Sociology from National Taiwan University. A 20-year fan of the CTBC Brothers in [CPBL](https://en.cpbl.com.tw/) and a Red Sox fan since moving to Boston, I’ve also recently started following the Hokkaido Nippon-Ham Fighters in [NPB](https://npb.jp/) and the Kia Tigers in [KBO](http://eng.koreabaseball.com/).
 
-You can find my CV [here](https://jenchenchao.github.io/files/cv_jchao_2025sep.pdf).
+You can find my CV [here](https://jenchenchao.github.io/files/cv_jchao_2026may.pdf).
 
 
 
