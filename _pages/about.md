@@ -15,7 +15,7 @@ In my current project, I examine how the strength of school-to-work linkages —
 
 I began my academic journey at [Yale Kindergarten](https://maps.app.goo.gl/ndXJ5SJYYpFqjVG5A) in Tainan, Taiwan (not New Haven), survived three years at an [all-boys high school](https://maps.app.goo.gl/n87ekC7FrBpciRMQ6), and later earned both my B.A. and M.A. degrees in Sociology from National Taiwan University. Outside of work, I am a hardcore baseball fan — more than 20 years with the CTBC Brothers in [CPBL](https://en.cpbl.com.tw/), the Red Sox since moving to Boston, plus [NPB](https://npb.jp/) and [KBO](http://eng.koreabaseball.com/) on the side. I always root for Taiwanese players in the minor leagues; after all, being a PhD student is pretty much the same — from overseas, swinging for the big leagues.
 
-You can find my CV [here](https://jenchenchao.github.io/files/cv_jchao_2026may.pdf).
+You can find my CV [here](https://jenchenchao.github.io/files/cv_jchao_2026nov.pdf).
 
 
 
